@@ -65,7 +65,7 @@ body{
     cursor: pointer;
 }
 .d{
-    font-size: 9rem;
+    font-size: 15vw;
     color: rgb(141 185 217);
     position: absolute;
     top: -4vh;
